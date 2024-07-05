@@ -8,7 +8,7 @@ setup(
     description="A package to preprocess data, fit models, and calculate VIF for Panel Data Regression",
     long_description=open('README.md').read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/grimmxoxo/OLS_pipeline",
+    url="https://github.com/GrimmXoXo/OLS_package",
     packages=find_packages(),
     install_requires=[
         "pandas",
